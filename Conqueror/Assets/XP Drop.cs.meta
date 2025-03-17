@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 19cd6f70a0303564c9175b98b1997c7a
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - xpDropLocation: {instanceID: 0}
+  - XP: {fileID: 7100277316497076224, guid: c354c24dae06ed04796bf533f6abb385, type: 3}
+  - LS: {fileID: 7713611331108568839, guid: 69ac6ca460baa444091ef5102f07480a, type: 3}
+  - MS: {fileID: 2545467958387397800, guid: ab9b6e09476953c4e99986508d098c70, type: 3}
+  - WS: {fileID: 8418340489422774762, guid: 6599443915cdbf3438a1d4f8032a5d9b, type: 3}
+  - BK1: {fileID: 3708952009572896816, guid: bf833ce061fe5cb4ca10b36bda1bb95c, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
